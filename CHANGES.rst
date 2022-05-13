@@ -1,7 +1,7 @@
 Babel Changelog
 ===============
 
-Version 2.10.1
+Version 2.10.2
 --------------
 
 This is a bugfix release for Babel 2.10.0.

@@ -1,3 +1,10 @@
+Forked while waiting for official release.
+===========
+The error to 'many' key in certain values is still not release,
+but the code is already in master so in the mean time, we will
+use this repo to get the library.
+
+
 About Babel
 ===========
 
